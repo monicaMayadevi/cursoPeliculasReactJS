@@ -1,6 +1,5 @@
 {
   "name": "cursopeliculasreactjs",
-
   "version": "1.2.0",
   "description": "Aplicacion para aprender a usar REACT y JS On line",
 
@@ -12,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/monicaMayadevi/cursoPeliculasReactJS.git"
   },
-  "author": "Monica Silva Lopez",
+  "author": "Irene Silva Lopez",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/monicaMayadevi/cursoPeliculasReactJS/issues"
